@@ -3,5 +3,6 @@
 void main()
 {
 printf("sfozilnfzldoizopsdifznpd\n");
-printf("example print ");
+printf("example print\n");
+printf("modified");
 }
